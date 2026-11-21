@@ -1,0 +1,11 @@
+node_modules/
+.next/
+out/
+.env
+.env.local
+.env.db.local
+.env.*.local
+!.env.example
+coverage/
+*.log
+*.tsbuildinfo
