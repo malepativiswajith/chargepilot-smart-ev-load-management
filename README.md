@@ -117,7 +117,7 @@ MongoDB creates the `chargepilot.telemetry` collection and indexes on first conn
 - Allocation is immediate and all-or-waitlist. Priority is stored for a future scheduling policy; requests are not currently reordered automatically.
 - Session energy is entered when a session is completed. Hardware readings do not yet automatically finalize billing.
 - Station setup and telemetry endpoints are Admin-only. No public account registration or password recovery is included.
-- A database connection and the setup steps above are required for sign-in and live dashboard data.
+
 
 ## Tests
 
